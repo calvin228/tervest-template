@@ -1,0 +1,24 @@
+inline
+span
+hr
+br
+a
+img
+strong
+cite
+qute
+em
+code
+input
+
+block
+div
+p
+ul ol li
+table tr td th tb
+section
+article
+video
+audio
+media
+canvas
